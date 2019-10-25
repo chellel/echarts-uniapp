@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "mpvue-echarts": "/mpvue-echarts/src/echarts"
+  }
+}

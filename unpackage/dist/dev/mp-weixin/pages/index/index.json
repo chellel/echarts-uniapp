@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "mpvue-echarts": "/mpvue-echarts/src/echarts"
+  }
+}

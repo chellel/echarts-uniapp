@@ -1,0 +1,1 @@
+<view class="container"><mpvue-echarts class="vue-ref" vue-id="1" id="main" echarts="{{echarts}}" data-ref="mapChart" data-event-opts="{{[['^onInit',[['renderMap']]]]}}" bind:onInit="__e" bind:__l="__l"></mpvue-echarts></view>

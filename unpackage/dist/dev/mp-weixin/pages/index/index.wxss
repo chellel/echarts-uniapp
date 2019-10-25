@@ -1,0 +1,9 @@
+
+page,
+.container {
+	height: 100%;
+}
+.container {
+	padding: 0 10px;
+}
+

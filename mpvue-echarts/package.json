@@ -1,0 +1,67 @@
+{
+  "_from": "mpvue-echarts",
+  "_id": "mpvue-echarts@0.3.1",
+  "_inBundle": false,
+  "_integrity": "sha512-O7IIyvi9TxcaXJDQuJsiDy6UefTTXF//VFgi3GCCyZ0WSBoPcyU0MpvfeMCPPafl8JxTDIgmlr4cZIxmyozSrA==",
+  "_location": "/mpvue-echarts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mpvue-echarts",
+    "name": "mpvue-echarts",
+    "escapedName": "mpvue-echarts",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mpvue-echarts/-/mpvue-echarts-0.3.1.tgz",
+  "_shasum": "4c5baee4c9e89260ab2944ba504527598da7211e",
+  "_spec": "mpvue-echarts",
+  "_where": "E:\\project\\uni-app\\echartsTest",
+  "author": {
+    "name": "F-loat",
+    "email": "chaimaoyuan@foxmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/F-loat/mpvue-echarts/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "适用于 Mpvue 的 ECharts 组件",
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-plugin-html": "^4.0.3",
+    "eslint-plugin-import": "^2.10.0"
+  },
+  "files": [
+    "src",
+    "types"
+  ],
+  "homepage": "https://github.com/F-loat/mpvue-echarts#readme",
+  "keywords": [
+    "mpvue",
+    "echarts",
+    "wxapp"
+  ],
+  "license": "MIT",
+  "main": "src/echarts.vue",
+  "name": "mpvue-echarts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F-loat/mpvue-echarts.git"
+  },
+  "scripts": {
+    "lint": "eslint --format node_modules/eslint-friendly-formatter --ext .js,.vue src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "types/index.d.ts",
+  "version": "0.3.1"
+}
