@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "echarts": "^4.2.1",
+    "echarts": "^5.4.2",
     "mpvue-echarts": "^0.3.1"
   }
 }
